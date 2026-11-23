@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://modolog.pages.dev/sitemap.xml
